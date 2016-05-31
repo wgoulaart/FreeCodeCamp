@@ -1,9 +1,9 @@
-# FreeCodeCamp Challenges
+## **FreeCodeCamp Challenges**
 ### Hello everyone!
 My intention with this repository is share my codes that I am solving at courses in [**FreeCodeCamp**](https://www.freecodecamp.com/) for purposes that I can share my solutions developed.
 
 
-## **Front End Development Certification**
+### Front End Development Certification
   * [x] Basic JavaScript
   * [x] Basic Front End Development Projects
 
