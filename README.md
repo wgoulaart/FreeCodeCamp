@@ -2,12 +2,11 @@
 ### Hello everyone!
 My intention with this repository is share my codes that I am solving at courses in [**FreeCodeCamp**](https://www.freecodecamp.com/) for purposes that I can share my solutions developed.
 
-
-## **Front End Development Certification**
+## Front End Development Certification
   * [x] Basic JavaScript
   * [x] Basic Front End Development Projects
 
-### Basic Algorithm Scripting
+## Basic Algorithm Scripting
 * [x] Reverse a String
 * [x] Factorialize a Number
 * [x] Check for Palindromes
@@ -25,7 +24,7 @@ My intention with this repository is share my codes that I am solving at courses
 * [ ] Where do I belong - _comming soon_
 * [ ] Caesars Cipher - _comming soon_
 
-### Basic Front End Development Projects
+## Basic Front End Development Projects
   * [Build a Tribute Page](http://codepen.io/wgoulaart/full/reqdrx/)
   * [Build a Personal Portfolio Webpage](https://codepen.io/wgoulaart/full/bpmMgG/)
 
