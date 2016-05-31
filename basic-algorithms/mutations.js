@@ -19,4 +19,4 @@ function mutation(arr) {
   return false;
 }
 
-console.log(mutation(["hello", "hey"]));
+mutation(["hello", "hey"]);
