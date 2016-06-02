@@ -7,22 +7,22 @@ My intention with this repository is share my codes that I am solving at courses
   * [x] Basic Front End Development Projects
 
 ## Basic Algorithm Scripting
-* [x] Reverse a String
-* [x] Factorialize a Number
-* [x] Check for Palindromes
-* [x] Find the Longest Word in a String
-* [x] Title Case a Sentence
-* [x] Return Largest Numbers in Arrays
-* [x] Confirm the Ending
-* [x] Repeat a string repeat a string
-* [x] Truncate a string
-* [x] Chunky Monkey
-* [x] Slasher Flick
-* [x] Mutations
-* [ ] Falsy Bouncer - _comming soon_
-* [ ] Seek and Destroy - _comming soon_
-* [ ] Where do I belong - _comming soon_
-* [ ] Caesars Cipher - _comming soon_
+* [x] [Reverse a String](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/reverseString.js)
+* [x] [Factorialize a Number](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/factorializeNumber.js)
+* [x] [Check for Palindromes](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/checkPalindromes.js)
+* [x] [Find the Longest Word in a String](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/longestWordString.js)
+* [x] [Title Case a Sentence](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/titleCaseSentence.js)
+* [x] [Return Largest Numbers in Arrays](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/largestNumber.js)
+* [x] [Confirm the Ending](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/confirmEndingString.js)
+* [x] [Repeat a string repeat a string](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/repeatStringRepeatString.js)
+* [x] [Truncate a string](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/truncateString.js)
+* [x] [Chunky Monkey](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/chunkyMonkey.js)
+* [x] [Slasher Flick](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/slasherFlick.js)
+* [x] [Mutations](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/mutations.js)
+* [x] [Falsy Bouncer ](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/falsyBouncer.js)
+* [x] [Seek and Destroy ](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/seekAndDestroy.js)
+* [x] [Where do I belong ](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/whereDoIBelong.js)
+* [x] [Caesars Cipher ](https://github.com/wgoulart/FreeCodeCamp/blob/master/basic-algorithms/caesarsCipher.js)
 
 ## Basic Front End Development Projects
   * [Build a Tribute Page](http://codepen.io/wgoulaart/full/reqdrx/)
