@@ -1,6 +1,6 @@
 # FreeCodeCamp Challenges
 ### Hello everyone!
-My intention with this repository is share my codes that I am solving at courses in [**FreeCodeCamp**](https://www.freecodecamp.com/) for purposes that I can share my solutions developed.
+My intention with this repository is share the codes that I am solving on courses at [**FreeCodeCamp**](https://www.freecodecamp.com/), for purposes that I can share my solutions developed.in order to share the solutions that I have developed.
 
 ## Front End Development Certification
   * [x] Basic JavaScript
@@ -37,4 +37,4 @@ My intention with this repository is share my codes that I am solving at courses
 
 Show my profile in [__FreeCodeCamp__](https://www.freecodecamp.com/wgoulart) :triangular_flag_on_post:
 
-*Any contribution, suggestion or doubt  always welcome* :punch:
+*Any contribution, suggestion or doubt is always welcome* :punch:
