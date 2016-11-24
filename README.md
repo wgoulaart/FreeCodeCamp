@@ -28,13 +28,16 @@ My intention with this repository is share the codes that I am solving on course
 ## Basic Front End Development Projects
   * [Build a Tribute Page](http://codepen.io/wgoulaart/full/reqdrx/)
   * [Build a Personal Portfolio Webpage](https://codepen.io/wgoulaart/full/bpmMgG/)
+  * [Build a Random Quote Machine](http://codepen.io/wgoulaart/full/YWPLeL/)
+  * [Show the Local Weather](http://codepen.io/wgoulaart/full/QEjpNB/)
+  * [Build a Wikipedia Viewer](http://codepen.io/wgoulaart/full/qNbZbm/)
 
 ## Future Modules and Challenges
-  * [ ] _HTML5 and CSS_
-  * [ ] _Responsive Design with Bootstrap_
-  * [ ] _Gear up for Success_
-  * [ ] _jQuery_
-  * [ ] _Object Oriented and Functional Programming_
+  * [X] _HTML5 and CSS_
+  * [X] _Responsive Design with Bootstrap_
+  * [X] _Gear up for Success_
+  * [X] _jQuery_
+  * [X] _Object Oriented and Functional Programming_
 
 Show my profile in [__FreeCodeCamp__](https://www.freecodecamp.com/wgoulart) :triangular_flag_on_post:
 
